@@ -1,0 +1,4 @@
+command:
+  giveaway: giveaway.use
+  reload: ag.reload
+  help: ag.help

@@ -1,0 +1,8 @@
+name: AtomGiveaway
+version: ${project.version}
+main: gg.steve.mc.lily.ag.AtomGiveaway
+api-version: 1.16
+commands:
+  giveaway:
+    usage: /<command>
+    description: Giveaway the item in your hand!

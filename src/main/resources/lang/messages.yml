@@ -1,0 +1,22 @@
+help:
+  action-bar: false
+  text:
+    - '&5&lAtom&dGiveaway&7| Sample help message, please change this.'
+
+reload:
+  action-bar: true
+  text:
+    - '&5&lAtom&dGiveaway&7| You have successfully reloaded the plugin.'
+
+giveaway-added:
+  text:
+    - '&5&lAtom&dGiveaway&7| You have given away {item}&7, click this message to &ccancel&7, or type /giveaway cancel.'
+
+giveaway-bc:
+  text:
+    - '&5&lAtom&dGiveaway&7| &6{receiver} &7has won a giveaway! They received {item}&7 from &6{giver}&7.'
+
+giveaway-cancel:
+  action-bar: true
+  text:
+    - '&5&lAtom&dGiveaway&7| You have cancelled that giveaway.'
